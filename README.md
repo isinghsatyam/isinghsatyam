@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:2563eb,100:38bdf8&height=230&section=header&text=Satyam%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=18&descAlignY=60" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2563eb,100:38bdf8&height=250&section=header&text=Satyam%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=18&descAlignY=55" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=640&color=2563EB&lines=React+Native+%E2%80%94+apps+with+100M%2B+downloads;Next.js+%2F+Node.js+%2F+Vue+%E2%80%94+full-stack+delivery;AWS+CDK+%26+Azure+%E2%80%94+infrastructure+as+code;AI-augmented+engineering+workflows" alt="typing intro" />
 
@@ -58,13 +58,12 @@ I build products end-to-end — mobile apps, web frontends, backend services, an
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=isinghsatyam&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=00000000&card_width=440" />
-    <img src="https://github-stats-extended.vercel.app/api?username=isinghsatyam&show_icons=true&hide_rank=true&hide_border=true&card_width=440" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=isinghsatyam&show_icons=true&hide_rank=true&hide_border=true&theme=tokyonight&bg_color=00000000&card_width=400" />
+    <img src="https://github-stats-extended.vercel.app/api?username=isinghsatyam&show_icons=true&hide_rank=true&hide_border=true&card_width=400" alt="GitHub stats" width="49%" />
   </picture>
-  <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=isinghsatyam&theme=tokyonight&hide_border=true&background=00000000" />
-    <img src="https://streak-stats.demolab.com/?user=isinghsatyam&hide_border=true" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=isinghsatyam&theme=tokyonight&hide_border=true&background=00000000&card_width=400" />
+    <img src="https://streak-stats.demolab.com/?user=isinghsatyam&hide_border=true&card_width=400" alt="GitHub streak" width="49%" />
   </picture>
 </div>
 
