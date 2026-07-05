@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:8b5cf6,100:a78bfa&height=250&section=header&text=Satyam%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=18&descAlignY=55" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4938c9,50:6b58e3,100:9a76e0&height=250&section=header&text=Satyam%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=18&descAlignY=55" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=640&color=8B5CF6&lines=React+Native+%E2%80%94+apps+with+100M%2B+downloads;Next.js+%2F+Node.js+%2F+Vue+%E2%80%94+full-stack+delivery;AWS+CDK+%26+Azure+%E2%80%94+infrastructure+as+code;AI-augmented+engineering+workflows" alt="typing intro" />
 
@@ -81,6 +81,6 @@ I build products end-to-end — mobile apps, web frontends, backend services, an
 Open-source libraries in the works — watch this space.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:8b5cf6,100:7c3aed&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9a76e0,50:6b58e3,100:4938c9&height=120&section=footer" width="100%" alt="footer" />
   <b>Open to interesting problems · <a href="https://www.linkedin.com/in/isinghsatyam/">let's talk</a></b>
 </div>
