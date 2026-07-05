@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2563eb,100:38bdf8&height=210&section=header&text=Satyam%20Kumar&fontSize=62&fontColor=ffffff&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=20&descAlignY=78" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2563eb,100:38bdf8&height=250&section=header&text=Satyam%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Lead%20Software%20Engineer%20%C2%B7%20Mobile%20%C2%B7%20Full-Stack%20%C2%B7%20Cloud&descSize=18&descAlignY=55" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&center=true&vCenter=true&width=640&color=2563EB&lines=React+Native+%E2%80%94+apps+with+100M%2B+downloads;Next.js+%2F+Node.js+%2F+Vue+%E2%80%94+full-stack+delivery;AWS+CDK+%26+Azure+%E2%80%94+infrastructure+as+code;AI-augmented+engineering+workflows" alt="typing intro" />
 
